@@ -238,7 +238,7 @@ footer {
   overflow: hidden;
   text-overflow: ellipsis;
 
-  font-size: 15px;
+  font-size: 25px;
   font-weight: bold;
   color: var(--pagination-text);
 }
