@@ -319,8 +319,8 @@ th {
 
 section::after {
   position: absolute;
-  top: var(--slide-border-size);
-  left: var(--slide-border-size);
+  bottom: var(--slide-border-size);
+  right: var(--slide-border-size);
   width: var(--side-pad);
   line-height: var(--side-pad);
   height: var(--side-pad);
