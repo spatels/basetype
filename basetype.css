@@ -140,8 +140,7 @@ blockquote {
 
 /* Container of bg-split-right */
 section[data-marpit-advanced-background-split="right"] {
-  background: linear-gradient(to right, var(--slide-bg) 50%, transparent 50%),
-    radial-gradient(var(--pagination-text) 1px, var(--slide-border-bg) 1px);
+  background: linear-gradient(to right, var(--slide-bg) 50%, transparent 50%), var(--slide-border-bg) 1px);
   background-size: auto auto, 48px 48px;
 }
 
